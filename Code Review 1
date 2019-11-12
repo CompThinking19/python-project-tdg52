@@ -1,0 +1,6 @@
+# defined a function
+def attitude(word):
+  if word == 'PMA':
+    return 'To see things in a positive manner that encourages you to move forward.'
+  if word == 'NMA'
+    return 'To see things in a depressing way that discourages you from moving forward.'
