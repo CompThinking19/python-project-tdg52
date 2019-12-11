@@ -1,0 +1,11 @@
+Comments
+You have a really good opening comment that gives an excellent overview of the program and the way in which it works. The comments scattered throughout also do well to orient me in your program and give a strong sense of what each part is supposed to do.
+
+Code Quality
+There was an error that prevented the code from running that persisted throughout: not using "==" to do comparisons. There were also some questions I had about the functions you declare and how/when they might be called. However, the basic structure of the program looks and feels as it should.
+
+Ambition
+I think there's a lot to be said about the thinking behind this project. Some things could be clarified, but the overall sentiment is appropriate to the assignment as discussed in class.
+
+Aesthetics
+I think your code contains a great deal of what you set out to do and much of the project you laid out is realized in the text you've written.
